@@ -7,7 +7,6 @@ setup(
     license='MIT',
     description='example python package',
     long_description=open('README.md').read(),
-    install_requires=['time','turtle'],
     url='https://github.com/jo-moon/fluff.git',
     author='Joanne Moonsamy',
     author_email='joanne.moonsamy@gmail.com'
