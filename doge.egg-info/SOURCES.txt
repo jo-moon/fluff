@@ -1,0 +1,7 @@
+README.md
+setup.py
+doge.egg-info/PKG-INFO
+doge.egg-info/SOURCES.txt
+doge.egg-info/dependency_links.txt
+doge.egg-info/requires.txt
+doge.egg-info/top_level.txt
