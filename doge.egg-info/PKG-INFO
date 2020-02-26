@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: doge
 Version: 0.1.1
 Summary: example python package
-Home-page: https://github.com/jo-moon/fluff
+Home-page: https://github.com/jo-moon/fluff.git
 Author: Joanne Moonsamy
 Author-email: joanne.moonsamy@gmail.com
 License: MIT
